@@ -1,3 +1,3 @@
 export const Success = () => {
-  return <div>SUCCESS</div>;
+  return <div>SUCCESS1</div>;
 };
